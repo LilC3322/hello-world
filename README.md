@@ -1,6 +1,5 @@
-# hello-world
-exploring &amp; experiencing
+# 
+&amp;
 
 
-Hello!
-to those wondering, I like constellations and the northern lights
+s
